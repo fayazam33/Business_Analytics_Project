@@ -57,3 +57,14 @@ Tables with color-coded stock status and suggested reorder quantities.
 Download buttons allow exporting filtered reports with stylish hover effects.
 Business recommendations highlight restocking and clearance actions.
 
+Programming Language:
+Python 3.8+
+
+Libraries and Packages:
+Streamlit — For building interactive web dashboards
+Pandas — Data manipulation and analysis
+Plotly Express — Interactive data visualization
+NumPy — Numerical computing and array operations
+Base64 — Encoding CSV files for download links
+
+
