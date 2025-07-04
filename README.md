@@ -3,7 +3,7 @@
 
 Welcome to the **Business Analytics Dashboard**, a powerful and interactive Streamlit app designed to help businesses analyze their sales, purchases, inventory, and profit data — all in one place!
 ---
-Site Link - https://fayazam33-business-analytics-project-dashboard-app-su3ehj.streamlit.app/
+Site Link - https://fayazam33-business-analytics-project.streamlit.app/
 For dry run -->
 
 📥 Step 1: Download CSV Files
