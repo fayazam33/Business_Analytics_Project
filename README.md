@@ -1,3 +1,4 @@
+
 # Business Analytics Dashboard
 
 Welcome to the **Business Analytics Dashboard**, a powerful and interactive Streamlit app designed to help businesses analyze their sales, purchases, inventory, and profit data — all in one place!
@@ -25,7 +26,9 @@ This project is a **data-driven dashboard** built using Python, Streamlit, and P
 
 ## 📁 Project Structure
 business_dashboard/
+
 │
+
 ├── init.py -----> Package initializer
 
 ├── dashboard_app.py ---> Streamlit dashboard frontend
