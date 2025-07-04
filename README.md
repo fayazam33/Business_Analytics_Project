@@ -4,7 +4,36 @@
 Welcome to the **Business Analytics Dashboard**, a powerful and interactive Streamlit app designed to help businesses analyze their sales, purchases, inventory, and profit data — all in one place!
 ---
 Site Link - https://fayazam33-business-analytics-project-dashboard-app-su3ehj.streamlit.app/
-For dry run you need to download the given CSV file (products.csv , purchases.csv , sales.csv)
+For dry run -->
+📥 Step 1: Download CSV Files
+Download the following sample CSV files:
+products.csv
+purchases.csv
+sales.csv
+
+🚀 Step 2: Launch the App
+Click the hosted app link below to launch the dashboard:
+🔗 Open the Dashboard
+
+📂 Step 3: Upload CSV Files
+Once the dashboard is open:
+Click “Browse files” for each section to upload:
+products.csv
+purchases.csv
+sales.csv
+
+📅 Step 4: Choose Date Range
+Use the date picker to select the date range you want to analyze.
+🌍 Step 5: Filter by Location
+Select one or more locations such as: Dhaka, Chittagong, Rajshahi, Khulna... and others
+
+📊 Step 6: View Results
+Once files are uploaded and filters applied, the dashboard will automatically display:
+✅ KPIs (Revenue, Profit, ROI, etc.)
+📉 Stock & Purchase vs. Sales Analysis
+📦 Understocked Products
+💡 Automated Product Recommendations
+📍 Location-wise Performance
 
 ## 🚀 Project Overview
 This project is a **data-driven dashboard** built using Python, Streamlit, and Plotly for visualization. It provides:
