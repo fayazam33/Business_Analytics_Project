@@ -27,11 +27,17 @@ This project is a **data-driven dashboard** built using Python, Streamlit, and P
 business_dashboard/
 │
 ├── init.py -----> Package initializer
+
 ├── dashboard_app.py ---> Streamlit dashboard frontend
+
 ├── business_analytics.py ---> Core analytics functions
+
 ├── README.md ---> Project overview and instructions
+
 ├── products.csv ---> #Product dataset
+
 ├── sales.csv ---> # Sales transactions dataset
+
 └── purchases.csv ---># Purchase transactions dataset
 
 🔧 How It Works
